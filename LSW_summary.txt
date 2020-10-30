@@ -1,0 +1,7 @@
+
+Welcome Debayan 2020-10-29 14:20:17.244467
+Required depth of the beam 330  mm.
+Provided depth of the beam 400  mm.
+Provide 5  - mm phi @ tension side.
+So, provide 8 mm phi 2LVS @ 300mm c/c.
+Maximum moment can be taken by the beam 165  KN/m.

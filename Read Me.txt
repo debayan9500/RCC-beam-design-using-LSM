@@ -1,0 +1,20 @@
+Hello! I'm Debayan
+You can design simply-supported RCC Beam using this software.You don't need to 
+download or install any programmimg language. Only You have to do is extract the package and 
+and run the LSM_beam.exe file.
+Then insert the values followed by clicking submin button and close the application. 
+One automatic txt file will be generated named "LSM" and "LSM_summery" on the folder "RCC beam design using LSM". 
+
+
+Those are some default values, you can use them for checking.
+
+The length of clear span: 6000  mm.
+UDL: 12 KN/m
+concrete strength M : 25 
+Steel strength Fe : 415 
+Total Depth of the beam: 300  mm.
+Thickness of the wall: 300  mm.
+Effective clear cover: 30  mm.
+Diameter of steel bar: 16mm
+Diameter of stirrups bar: 8mm
+
